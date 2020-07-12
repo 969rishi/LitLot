@@ -1,0 +1,2 @@
+rootProject.name='LitLot'
+include ':app'
